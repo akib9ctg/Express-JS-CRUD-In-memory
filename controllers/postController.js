@@ -1,7 +1,7 @@
 const posts = [
   { id: 1, name: 'Mr x', dob: '2025-11-08' },
   { id: 2, name: 'Mr y', dob: '2025-10-08' },
-  { id: 3, name: 'Mr z', dob: '2025-09-08' }
+  { id: 3, name: 'Mr z', dob: '2025-09-23' }
 ];
 
 function getPosts() {
